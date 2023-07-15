@@ -1,0 +1,4 @@
+Email Spam Detection: Cluster email data to detect spam or malicious messages.
+Procedure: Apply K-means on email features like sender, subject, content, and attachments to group similar emails.
+Domain: Cybersecurity
+Dataset Link: https://www.kaggle.com/code/mfaisalqureshi/email-spam-detection-98-accuracy/input?select=spam.csv

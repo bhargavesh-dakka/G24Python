@@ -1,0 +1,4 @@
+Credit Risk Analysis: Identify credit risk profiles by clustering customers based on their credit history and financial data.
+Procedure: Apply K-means on customer credit data, considering features such as credit score, income, and payment history.
+Domain: Finance/Banking
+Dataset Link: https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset

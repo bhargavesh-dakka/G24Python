@@ -1,0 +1,4 @@
+Problem Statement: Predicting Energy Consumption
+Project Description: Create a regression model to predict the energy consumption of a building based on factors such as temperature, humidity, and occupancy.
+Domain: Energy Management
+Dataset Link: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption

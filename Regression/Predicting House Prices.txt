@@ -1,0 +1,4 @@
+Problem Statement: Predicting House Prices
+Project Description: Develop a regression model to predict the sale prices of houses based on various features such as square footage, number of bedrooms, and location.
+Domain: Real Estate
+Dataset Link:https://www.kaggle.com/c/house-prices-advanced-regression-techniques

@@ -1,0 +1,4 @@
+Problem Statement: Predicting Student Grades
+Project Description: Develop a regression model to predict the final grades of students based on features like previous exam scores, study time, and demographic information.
+Domain: Education
+Dataset Link: https://archive.ics.uci.edu/dataset/320/student+performance

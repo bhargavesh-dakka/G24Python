@@ -1,0 +1,15 @@
+Project Title Travel Package Purchase Prediction
+Domain Tourism
+
+Problem Statement:
+Tourism is one of the most rapidly growing global industries and tourism forecasting is
+becoming an increasingly important activity in planning and managing the industry.
+Because of high fluctuations of tourism demand, accurate predictions of purchase of
+travel packages are of high importance for tourism organizations.
+The goal is to predict whether the customer will purchase the travel or not.
+
+Approach: The classical machine learning tasks like Data Exploration, Data Cleaning,
+Feature Engineering, Model Building and Model Testing. Try out different machine
+learning algorithms thats best fit for the above case.
+
+Dataset link : https://github.com/foos0016/Travel-Package-Purchase-Prediction/blob/main/Source/Tourism.csv

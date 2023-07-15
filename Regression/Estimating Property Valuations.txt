@@ -1,0 +1,4 @@
+Problem Statement: Estimating Property Valuations
+Project Description: Build a regression model to estimate the valuations of properties based on factors such as location, size, amenities, and recent property sales data.
+Domain: Real Estate
+Dataset Link: https://www.kaggle.com/competitions/zillow-prize-1/data?select=train_2017.csv

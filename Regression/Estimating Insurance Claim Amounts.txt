@@ -1,0 +1,4 @@
+Problem Statement: Estimating Insurance Claim Amounts
+Project Description: Develop a regression model to estimate the claim amounts for insurance policies based on customer profiles, policy details, and historical claim data.
+Domain: Insurance
+Dataset Link:https://www.kaggle.com/competitions/allstate-claims-severity/data?select=train.csv

@@ -1,0 +1,4 @@
+Hotel Recommendation System: Build a hotel recommendation system by clustering hotels based on their amenities, user ratings, and location.
+Procedure: Apply K-means on hotel features, user reviews, and location data to group similar hotels and make personalized recommendations.
+Domain: Travel and Hospitality
+Dataset Link: https://www.kaggle.com/datasets/datafiniti/hotel-reviews?select=Datafiniti_Hotel_Reviews.csv

@@ -1,0 +1,4 @@
+Problem Statement: Predicting Housing Rental Prices
+Project Description: Create a regression model to predict rental prices of residential properties based on factors such as location, property size, amenities, and rental market trends.
+Domain: Real Estate
+Dataset Link: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset?select=Housing.csv

@@ -1,0 +1,23 @@
+Project Title Campus Placement Prediction
+
+Technologies Machine Learning Technology
+Domain HR
+Project Difficulties level Intermediate
+
+Problem Statement:
+The Placement of students is one of the most important objective of an educational
+institution. Reputation and yearly admissions of an institution invariably depend on the
+placements it provides it students with. That is why all the institutions, arduously, strive
+to strengthen their placement department so as to improve their institution on a whole.
+Any assistance in this particular area will have a positive impact on an institution’s ability
+to place its students. This will always be helpful to both the students, as well as the
+institution.
+
+The main goal is to predict whether the student will be recruited in campus placements
+or not based on the available factors in the dataset.
+
+Approach: The classical machine learning tasks like Data Exploration, Data Cleaning,
+Feature Engineering, Model Building and Model Testing. Try out different machine
+learning algorithms thats best fit for the above case.
+
+Dataset link : https://www.kaggle.com/c/ml-with-python-course-project/data

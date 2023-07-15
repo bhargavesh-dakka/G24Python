@@ -1,0 +1,4 @@
+Problem Statement: Predicting Customer Lifetime Value in E-commerce
+Project Description: Develop a regression model to predict the lifetime value of customers in an e-commerce business based on their purchase history, browsing behavior, and demographic data.
+Domain: E-commerce
+Dataset Link: https://www.kaggle.com/datasets/vijayuv/onlineretail?select=OnlineRetail.csv

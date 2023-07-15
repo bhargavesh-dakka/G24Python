@@ -1,0 +1,4 @@
+Fraud Detection: Identify fraudulent transactions in credit card data by clustering normal and fraudulent patterns.
+Procedure: Apply K-means on credit card transaction data, considering features such as transaction amount, location, and time.
+Domain: Finance
+Dataset Link: https://www.kaggle.com/mlg-ulb/creditcardfraud

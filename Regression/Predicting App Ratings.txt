@@ -1,0 +1,4 @@
+Problem Statement: Predicting App Ratings
+Project Description: Build a regression model to predict the ratings of mobile applications based on user reviews, app features, developer details, and historical ratings.
+Domain: Mobile Applications
+Dataset Link:https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore.csv

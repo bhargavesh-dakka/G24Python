@@ -1,0 +1,4 @@
+Problem Statement: Predicting Air Quality
+Project Description: Build a regression model to predict the air quality index (AQI) of a given location based on weather conditions, pollutant levels, and geographical factors.
+Domain: Environmental Science
+Dataset Link: https://archive.ics.uci.edu/dataset/360/air+quality

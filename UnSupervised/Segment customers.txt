@@ -1,0 +1,4 @@
+Customer Segmentation for E-commerce: Segment customers based on their purchasing behavior to identify high-value customers for targeted marketing campaigns.
+Procedure: Apply K-means clustering on customer transaction data, considering features such as purchase frequency, total spent, and product categories.
+Domain: E-commerce
+Dataset Link: https://www.kaggle.com/carrie1/ecommerce-data

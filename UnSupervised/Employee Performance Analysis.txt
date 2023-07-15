@@ -1,0 +1,4 @@
+Employee Performance Analysis: Analyze employee performance data to identify performance patterns or clusters.
+Procedure: Apply K-means on employee performance metrics, such as productivity, attendance, feedback scores, or goal achievements.
+Domain: Human Resources
+Dataset Link: https://www.kaggle.com/datasets/indronil2489/employee-dataset

@@ -1,0 +1,4 @@
+Restaurant Recommendation: Recommend restaurants to users based on their preferences and previous dining history.
+Procedure: Apply K-means on user ratings, restaurant features, or user preferences to group restaurants and make personalized recommendations.
+Domain: Food and Dining
+Dataset Link: https://www.yelp.com/dataset

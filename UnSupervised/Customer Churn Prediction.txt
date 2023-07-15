@@ -1,0 +1,4 @@
+Customer Churn Prediction: Predict customer churn by clustering customers based on their usage patterns.
+Procedure: Apply K-means on customer behavior data, such as usage frequency, duration, and service features.
+Domain: Telecommunications
+Dataset Link: https://www.kaggle.com/blastchar/telco-customer-churn

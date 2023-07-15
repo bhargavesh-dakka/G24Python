@@ -1,0 +1,4 @@
+Problem Statement: Predicting Employee Salaries
+Project Description: Build a regression model to predict employee salaries based on factors such as job title, years of experience, education level, and performance metrics.
+Domain: Human Resources
+Dataset Link: https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists?select=aug_train.csv

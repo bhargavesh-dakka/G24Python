@@ -1,0 +1,4 @@
+Health Data Clustering: Cluster health data to identify patient groups or disease patterns.
+Procedure: Apply K-means on patient health records, considering features like vital signs, lab results, and medical history.
+Domain: Healthcare
+Dataset Link: https://www.kaggle.com/datasets/cdc/mortality?select=2015_data.csv

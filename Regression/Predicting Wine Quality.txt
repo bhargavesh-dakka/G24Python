@@ -1,0 +1,4 @@
+Problem Statement: Predicting Wine Quality
+Project Description: Create a regression model to predict the quality of wines based on various chemical attributes such as acidity, residual sugar, and alcohol content.
+Domain: Wine Industry
+Dataset Link:https://archive.ics.uci.edu/dataset/186/wine+quality

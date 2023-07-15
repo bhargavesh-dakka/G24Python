@@ -1,0 +1,23 @@
+Project Title Drug Activity Prediction
+Domain Drug Discovery
+
+
+Problem Statement:
+Drugs are typically tiny chemical compounds that attach to a receptor's target location to
+perform their desired function. Identifying and isolating the receptor to which a novel
+medicine should interact is usually the first stage in drug development, followed by
+testing a large number of small compounds for their capacity to bind to the target
+location. Researchers must now figure out what distinguishes active (binding) molecules
+from inactive (non-binding) chemicals. This information can then be used to create new
+molecules that not only bind but also have all of the other features that a medication
+requires (solubility, oral absorption, lack of side effects, appropriate duration of action,
+toxicity, etc.).
+
+The main goal is to allow you to develop predictive models that can determine given a
+particular compound whether it is active (1) or not (0).
+
+Approach: The classical machine learning tasks like Data Exploration, Data Cleaning,
+Feature Engineering, Model Building and Model Testing. Try out different machine
+learning algorithms thats best fit for the above case.
+
+DataSet link : https://github.com/sowmyagowri/Drug-Activity-Prediction-Dorothea-Dataset

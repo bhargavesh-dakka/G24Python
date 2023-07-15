@@ -1,0 +1,4 @@
+Problem Statement: Estimating Car Prices
+Project Description: Develop a regression model to estimate the prices of used cars based on factors like mileage, year of manufacture, brand, and model.
+Domain: Automotive
+Dataset Link: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data

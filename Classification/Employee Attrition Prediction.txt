@@ -1,0 +1,7 @@
+Project: Employee Attrition Prediction
+Dataset: HR Employee Attrition Dataset
+Dataset Link: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+
+Problem Statement: Create a model to predict employee attrition in an organization. By identifying factors contributing to attrition, HR departments can take proactive measures to retain valuable employees and improve employee satisfaction.
+Domain: Human Resources

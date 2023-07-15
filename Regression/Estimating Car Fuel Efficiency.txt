@@ -1,0 +1,4 @@
+Problem Statement: Estimating Car Fuel Efficiency
+Project Description: Build a regression model to estimate the fuel efficiency (miles per gallon) of cars based on factors such as engine size, weight, and vehicle specifications.
+Domain: Automotive
+Dataset Link: https://archive.ics.uci.edu/dataset/9/auto+mpg

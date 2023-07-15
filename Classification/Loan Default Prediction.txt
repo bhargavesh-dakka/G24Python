@@ -1,0 +1,7 @@
+Project: Loan Default Prediction
+Dataset: LendingClub Loan Data
+Domain: Finance
+Problem Statement: Build a model to predict whether a borrower will default on a loan based on various features such as credit score, employment history, loan amount, etc. This can assist financial institutions in making informed decisions when approving loan applications.
+
+
+Dataset Link: https://www.kaggle.com/wendykan/lending-club-loan-data

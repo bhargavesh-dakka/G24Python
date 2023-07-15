@@ -1,0 +1,4 @@
+Problem Statement: Estimating Movie Box Office Revenue
+Project Description: Build a regression model to estimate the box office revenue of movies based on factors such as genre, production budget, release date, and marketing efforts.
+Domain: Film Industry
+Dataset Link: https://www.kaggle.com/datasets/kalilurrahman/top-box-office-revenue-data-english-movies?select=bomojobrandindices.csv
