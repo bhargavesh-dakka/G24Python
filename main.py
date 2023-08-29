@@ -6,10 +6,10 @@ st.set_page_config(initial_sidebar_state="collapsed")
 
 def create_connection():
     mydb = mysql.connect(
-        host="sql6.freemysqlhosting.net",
-        user="sql6632923", #enter username here
-        password="iAJBkjmxL9", #enter password here
-        database="sql6632923"
+        host="sql12.freemysqlhosting.net",
+        user="sql12643104", #enter username here
+        password="DyxC7PnUFi", #enter password here
+        database="sql12643104"
     )
     return mydb
 
