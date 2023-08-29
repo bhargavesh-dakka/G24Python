@@ -26,7 +26,7 @@ with open(r"style.css") as f:
     st.markdown(f"<script>{f.read()}</script>",unsafe_allow_html=True)
 
 
-st.markdown("<style>.css-aw8l5d.e1akgbir1 { visibility : hidden}</style>",unsafe_allow_html=True)
+st.markdown("<style>.css-aw8l5d.e1akgbir1, .eyeqlp51.css-fblp2.ex0cdmw0 { visibility : hidden}</style>",unsafe_allow_html=True)
 
 st.header("Ola! 👋")
 st.divider()
